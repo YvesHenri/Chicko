@@ -1,0 +1,3 @@
+[submodule "Modules/A"]
+	path = Modules/A
+	url = https://github.com/YvesHenri/abc.git
